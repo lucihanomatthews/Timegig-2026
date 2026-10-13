@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist White Template",
+  "description": "An empty white template with a bottom circular menu bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
